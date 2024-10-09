@@ -60,7 +60,7 @@ export default function ListaJogos({
 
   return (
     <SafeAreaView style={{ flex: 1 }}>
-      <StatusBar backgroundColor="#f3c715" />
+      <StatusBar backgroundColor="#107C0F" />
       <View style={styles.container}>
         <View style={styles.ViewTile}>
           <Text style={styles.titleCabecalho}>Lista de jogos</Text>
