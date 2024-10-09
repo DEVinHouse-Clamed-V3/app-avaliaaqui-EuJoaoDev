@@ -39,13 +39,16 @@ EXPO_PUBLIC_API_URL=https://sua-api-url.com
 ## 📱 Screenshots
 
 ## Tela principal
-![image](https://github.com/user-attachments/assets/a0f27096-3559-464a-a5ba-c95bc6e6eddf)
+![image](https://github.com/user-attachments/assets/ee3ebba7-a331-401d-8e26-2bb9716d5206)
+
 
 
 ## Lista Jogos
-![image](https://github.com/user-attachments/assets/33878f8e-7b53-42f3-9360-bf58e182585e)
+![image](https://github.com/user-attachments/assets/a62be6f8-2240-4ed7-be2b-1a2ebbfdf7e6)
+
 
 
 ## Feedbacks
-![image](https://github.com/user-attachments/assets/c1da15c2-0400-4193-8b0e-0eade94548b5)
+![image](https://github.com/user-attachments/assets/0576e21d-8cc7-40a7-a9d8-1120b471904b)
+
 
